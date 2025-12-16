@@ -13,7 +13,7 @@
 
 </div>
 
-## 🏷️ Product Description
+## Product Description
 Product Name : Aleba Paulina
 Category     : DevOps Engineer
 Target OS    : Linux
@@ -22,7 +22,7 @@ Mindset      : Reliability • Simplicity
 Status       : Available for growth & collaboration
 
 
-## 🧩 Featured Products
+## Featured Products
 <div align="center">
 Product	Description
 CI/CD Pipelines	GitHub Actions • GitLab CI
@@ -34,7 +34,7 @@ Monitoring	Logs • Metrics • Observability Basics
 </div>
 
 
-## 🆕 New Arrivals
+## New Arrivals
 Improving CI/CD reliability
 Learning security best practices in pipelines
 Infrastructure automation with Terraform
@@ -42,7 +42,7 @@ Monitoring & observability mindset
 Cloud-native architectures
 
 
-## 🛒 Best Sellers
+## Best Sellers
 ✔ Clean and readable automation
 ✔ Strong Linux foundations
 ✔ Problem-solving mindset
@@ -50,15 +50,15 @@ Cloud-native architectures
 ✔ Continuous learning attitude
 
 
-## ⭐ Customer Reviews
+## Customer Reviews
 ⭐️⭐️⭐️⭐️⭐️
 "A reliable DevOps profile with strong fundamentals,
 a clean approach to automation, and a clear growth mindset."
 
 
-## 🧾 Tech Stack
+## Tech Stack
 <div align="center">
-## 📦 Projects (Showroom)
+Projects (Showroom)
 CI/CD Pipeline Demo
    → Automated build & deploy using GitHub Actions
 
@@ -70,12 +70,12 @@ Infrastructure Playground
 </div>
 
 
-## 🧠 Store Philosophy
+## Store Philosophy
 “Automation is not about tools.
 It’s about building systems that people can trust.”
 
 
-## 📊 Store Metrics
+## Store Metrics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlebaPaulina&show_icons=true&theme=transparent&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=AlebaPaulina&theme=transparent&hide_border=true" /> </div>
 
 
